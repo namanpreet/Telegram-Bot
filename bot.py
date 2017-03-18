@@ -6,7 +6,7 @@ import requests
 from bs4 import BeautifulSoup
 
 details_url = "https://in.bookmyshow.com/national-capital-region-ncr/movies/%s/%s"
-zomato_api = "ff1c6ad67bb2a85b7c8fe210eeadae51"
+zomato_api = "-------zomato api----------"
 
 latitude=0.0
 longitude=0.0
